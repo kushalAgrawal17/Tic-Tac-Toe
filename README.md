@@ -2,8 +2,8 @@
 This project is the implementation of Tic-Tac-Toe game. Both Player vs Player and Player vs Computer are implemented using OOPs in java.
 
 How to run the programm:
-1.On the command line,compile the program by entering the command: javac TicTacToe.java
-2.Now run the program by entering the command: java TicTacToe
+1. On the command line,compile the program by entering the command: javac TicTacToe.java
+2. Now run the program by entering the command: java TicTacToe
 
 The game board is as follows:
     1 | 2 | 3
@@ -22,7 +22,7 @@ The programm first asks the user to enter 1 for playing player vs player , else 
 
 
 The programm has four classes
-1.TicTacToe - has the main function
-2.Player
-3.Computer
-4.ComputerControl - has the computer logic to decide position
+1. TicTacToe - has the main function
+2. Player
+3. Computer
+4. ComputerControl - has the computer logic to decide position
